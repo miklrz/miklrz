@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miklrz
-- 👀 I’m interested in coding and Data Scinece
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: arz.mikhail@gmail.com
 
