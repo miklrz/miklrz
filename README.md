@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mikhail
 <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="32"/></h1>
 
-<img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Java+Backend+Developer" alt="Typing SVG"  />
+<img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Currently+learning:+Machine+learning" alt="Typing SVG"  />
 
 <p><b>Tools:</b></p>
 
