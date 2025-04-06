@@ -6,41 +6,18 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 14.5 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌆 Daytime                208 commits         ████████████░░░░░░░░░░░░░   47.71 % 
-🌃 Evening                125 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Tuesday                  92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Saturday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -79,12 +56,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/miklrz/miklrz/main/assets/bar_graph.png)
-
-
- Last Updated on 06/04/2025 22:09:25 UTC
 <!--END_SECTION:waka-->
 
 <p><b>Tools:</b></p>
