@@ -36,9 +36,14 @@ Git Config               0 secs              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=miklrz&theme=onedark&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><b>Tools:</b></p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,10 +57,13 @@ Git Config               0 secs              ░░░░░░░░░░░�
 <a href="mailto:arz.mikhail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <div align="center">
+<a href="https://www.kaggle.com/hxastur"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 <a href="https://leetcode.com/hxastur/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://www.codewars.com/users/hxastur"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 <a href="https://codeforces.com/profile/miklrz"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   </div>
+
+
 
 <!---
 
