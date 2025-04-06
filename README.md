@@ -4,7 +4,9 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2032%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +84,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miklrz/miklrz/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2025 22:03:57 UTC
+ Last Updated on 06/04/2025 22:09:25 UTC
 <!--END_SECTION:waka-->
 
 <p><b>Tools:</b></p>
