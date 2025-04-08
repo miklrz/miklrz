@@ -51,7 +51,7 @@ Text                     5 mins              ░░░░░░░░░░░�
 
 <br>
 
-<h2 align="center">Some Links:</h2>
+<h2 align="center">Links:</h2>
 <div align="center">
 <a href = "https://t.me/hxastur"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:arz.mikhail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
