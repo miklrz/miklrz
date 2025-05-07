@@ -10,15 +10,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 24.0 kB Used in GitHub's Storage 
+> 📦 23.9 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
