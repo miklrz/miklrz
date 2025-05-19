@@ -4,13 +4,15 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 24.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -24,11 +26,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   14 hrs 43 mins      █████████████████████████   98.09 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   12 hrs 7 mins       ████████████████████████░   96.42 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
