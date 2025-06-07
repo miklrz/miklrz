@@ -4,7 +4,7 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -26,11 +26,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
-TypeScript               2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-JavaScript               1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Docker                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Config                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Python                   5 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.50 % 
+JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Docker                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+TypeScript               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Config                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 
 
