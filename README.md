@@ -4,13 +4,13 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 24.5 kB Used in GitHub's Storage 
+> 📦 24.7 kB Used in GitHub's Storage 
  > 
 > 🏆 73 Contributions in the Year 2025
  > 
