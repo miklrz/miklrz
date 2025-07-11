@@ -24,7 +24,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
