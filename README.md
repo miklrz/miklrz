@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 28.3 kB Used in GitHub's Storage 
+> 📦 28.4 kB Used in GitHub's Storage 
  > 
 > 🏆 98 Contributions in the Year 2025
  > 
@@ -26,8 +26,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   44 mins             ████████████████████████░   95.16 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+No Activity Tracked This Week
 ```
 
 
