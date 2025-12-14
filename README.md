@@ -18,7 +18,7 @@
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
