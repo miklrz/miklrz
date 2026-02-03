@@ -20,6 +20,15 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Python                   1 hr 16 mins        █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
