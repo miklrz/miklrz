@@ -26,9 +26,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   50 mins             █████████████████████████   99.05 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 ```
 
 
