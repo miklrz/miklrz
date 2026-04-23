@@ -26,11 +26,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 35 mins        ████████████████████████░   94.77 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   48 mins             █████████████████████████   100.00 % 
 ```
 
 
