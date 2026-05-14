@@ -4,8 +4,6 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2055%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -20,19 +18,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Python                   1 hr 22 mins        ████████████░░░░░░░░░░░░░   49.77 % 
-TOML                     48 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Git Config               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-```
-
 
 <!--END_SECTION:waka-->
 
