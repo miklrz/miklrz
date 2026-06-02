@@ -26,8 +26,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████░░░░░░░░   68.27 % 
-TOML                     0 secs              ████████░░░░░░░░░░░░░░░░░   31.73 % 
+No Activity Tracked This Week
 ```
 
 
