@@ -26,11 +26,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████████░░░░░░░░   67.94 % 
-Bash                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 ```
 
 
