@@ -26,10 +26,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Docker                   13 mins             ██████████████████████░░░   87.27 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity Tracked This Week
 ```
 
 
