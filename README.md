@@ -4,7 +4,9 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,6 +32,28 @@ Markdown                 8 mins              ███████████�
 Python                   8 mins              ███████████░░░░░░░░░░░░░░   43.19 % 
 Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 mins (56.44%)
+
+✍️ 77 lines written by AI, 2 lines written by hand (97.47% AI-written)
+
+🔤 1,172,090 Input Tokens, 4,529 Output Tokens
+
+💵 $6.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      77 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.47% of written lines came from AI
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.75% of changed lines were hand-edited
 ```
 
 
