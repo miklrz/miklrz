@@ -28,8 +28,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   99.15 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
