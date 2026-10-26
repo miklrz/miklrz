@@ -3,66 +3,6 @@
 
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Machine+learning+engineer" alt="Typing SVG"  />
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2024%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 65.9 kB Used in GitHub's Storage 
- > 
-> 🏆 184 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 28 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Python                   2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.97 % 
-Bash                     1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-CSV                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 45 mins (85.33%)
-
-✍️ 703 lines written by AI, 163 lines written by hand (81.18% AI-written)
-
-🔤 777,970 Input Tokens, 314,498 Output Tokens
-
-💵 $9.70 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 50 AI Prompts
-
-GPT                      703 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 81.18% of written lines came from AI
-📄 Detailed Prompter — average 551 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 19.66% of changed lines were hand-edited
-```
-
-
-<!--END_SECTION:waka-->
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=miklrz&theme=onedark&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
--->
 <p><b>Tools:</b></p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
